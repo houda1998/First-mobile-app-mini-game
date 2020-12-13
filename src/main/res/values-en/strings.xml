@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Guess game</string>
+    <string name="bravo">Congratulation!</string>
+    <string name="essai_numero">Round number:</string>
+    <string name="fin">Quit</string>
+    <string name="nombre_plus_grand">Number is greater</string>
+    <string name="nombre_plus_petit">Number is smaller</string>
+    <string name="str_nouvel_essai">New Round?</string>
+    <string name="text_devinez">Guess</string>
+    <string name="ok">OK</string>
+</resources>

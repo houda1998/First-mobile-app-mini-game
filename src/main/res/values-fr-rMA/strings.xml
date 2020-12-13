@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Jeu Hasard</string>
+    <string name="bravo">Félicitation!</string>
+    <string name="essai_numero">numero essaie</string>
+    <string name="fin">Quitter</string>
+    <string name="nombre_plus_grand">Nombre  plus grand</string>
+    <string name="nombre_plus_petit">Nombre plus petit</string>
+    <string name="ok">Oui</string>
+    <string name="str_nouvel_essai">Rejouer ?</string>
+    <string name="text_devinez">Devinez</string>
+</resources>
